@@ -8,4 +8,4 @@ A simple bash tool for getting phone numbers and email on a website
 - bash webscrap.sh
 
 # Tool Author:
-- krishpranav | github.com/krishpranav
+- krishpranav | https://github.com/krishpranav
