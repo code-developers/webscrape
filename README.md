@@ -6,3 +6,6 @@ A simple bash tool for getting phone numbers and email on a website
 - cd webscrape
 - sudo chmod +x 
 - bash webscrap.sh
+
+# Tool Author:
+- krishpranav | github.com/krishpranav
